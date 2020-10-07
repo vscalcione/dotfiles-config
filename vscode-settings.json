@@ -28,12 +28,12 @@
   "[dockerfile]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
   },
-  "emmet.includeLanguages": {}
-  /**  "[dockerfile]": {
-      "editor.quickSuggestions": {
-        "strings": true
-      },
-      "editor.autoIndent": "full"
-    }**/
+  "emmet.includeLanguages": {},
+  //"[dockerfile]": {
+  //    "editor.quickSuggestions": {
+  //      "strings": true
+  //    },
+   "editor.autoIndent": "full"
+  }
 }
 
