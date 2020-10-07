@@ -1,0 +1,39 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "editor.suggestSelection": "first",
+  "editor.fontFamily": "'Jetbrains Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14.6,
+  "editor.formatOnSave": true,
+  "deno.enable": false,
+  "deno.lint": true,
+  "typescript.format.enable": true,
+  "editor.autoIndent": "full",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoSave": true,
+  "workbench.colorTheme": "Visual Studio 2019 Dark",
+  "files.autoSave": "afterDelay",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.languageServer": "Microsoft",
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "emmet.includeLanguages": {}
+  /**  "[dockerfile]": {
+      "editor.quickSuggestions": {
+        "strings": true
+      },
+      "editor.autoIndent": "full"
+    }**/
+}
+
